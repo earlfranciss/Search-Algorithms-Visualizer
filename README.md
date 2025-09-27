@@ -30,7 +30,7 @@ The goal is to provide both a **learning tool** and a **practical implementation
 ## 🚀 How to Run
 1. Clone the repository:  
 ```bash
-   git clone https://github.com/your-username/search-algorithms-visualizer.git
+   git clone https://github.com/earlfranciss/Search-Algorithms-Visualizer.git
 ````
 
 2. Open the solution in **Visual Studio**.
@@ -54,10 +54,3 @@ This project was developed as part of the **Design and Analysis of Algorithms co
 * Earl Francis Y. Ong
 
 ---
-
-
-
----
-
-Do you want me to also make a **short tagline version** (under 80 chars) for the GitHub repo title bar, like I did for your other projects?
-```
